@@ -11,5 +11,5 @@ Aqui vai a lista de todos as receitas desta seção.
 
 ## Receitas
 
-- [Pudim de Leite](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/pudims/pudim-de-leite.txt)
+- [Pudim de Leite](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/pudins/pudim-de-leite.txt)
 
