@@ -11,5 +11,5 @@ Aqui vai a lista de todos as receitas desta seção.
 
 ## Receitas
 
-- [Bolo de Chocolate](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/pudims/bolo-de-chocolate.txt)
+- [Bolo de Chocolate](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/bolos/bolo-de-chocolate.txt)
 
