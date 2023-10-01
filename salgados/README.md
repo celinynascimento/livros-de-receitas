@@ -11,7 +11,7 @@ Aqui vai a lista de todos as receitas desta seção.
 
 ## Receitas
 
-- [Coxinha](https://github.com/celinynascimento/livros-de-receitas/tree/main/salgados/coxinha.txt)
-- [Quibe frito](https://github.com/celinynascimento/livros-de-receitas/tree/main/salgados/quibe-frito.txt)
+- [Coxinha](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/salgados/coxinha.txt)
+- [Quibe frito](https://github.com/Jorgeluisreis/livros-de-receitas/blob/main/salgados/quibe-frito.txt)
 
 
