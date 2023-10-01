@@ -1,5 +1,5 @@
 
-![Logo](https://assets.papodehomem.com.br/2016/01/14/21/38/54/2b8f8fa8-45c6-44c6-8ebd-a6cd193996e2/pudim.jpg)
+![Logo](https://novidad.es/content/images/size/w1200/wordpress/2019/07/pudim.jpg)
 
 
 # Pudins
